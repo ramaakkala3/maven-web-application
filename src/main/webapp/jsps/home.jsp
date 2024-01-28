@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Rama Krishna need to complete classes ASAP </h1>
 <h1 align="center">Jaysvik get well soon</h1> 
-<h1 align="center">new</h1>
+<h1 align="center">good to hear</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
