@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">need continues practise</h1>
+<h1 align="center">in a good position with freestyle pipeline</h1>
 <h1 align="center">freestyle pipeline</h1> 
 <h1 align="center">need some more info</h1>
 <hr>
 <br>
-	<h1><h3> Custom IP address </h3><br>
+	<h1><h3> Jenkins IP address </h3><br>
 
 <% 
 String ip = "";
