@@ -14,7 +14,7 @@
 <h1 align="center">need some more info</h1>
 <hr>
 <br>
-	<h1><h3> this is very important </h3><br>
+	<h1><h3> Custom IP address </h3><br>
 
 <% 
 String ip = "";
