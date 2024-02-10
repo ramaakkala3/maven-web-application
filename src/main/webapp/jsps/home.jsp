@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Rama Krishna need to complete classes ASAP </h1>
-<h1 align="center">good to see both are doing good</h1> 
-<h1 align="center">boh wen school is week</h1>
+<h1 align="center">need continues practise</h1>
+<h1 align="center">freestyle pipeline</h1> 
+<h1 align="center">need some more info</h1>
 <hr>
 <br>
 	<h1><h3> this is very important </h3><br>
