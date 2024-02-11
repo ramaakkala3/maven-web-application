@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Able to  learn pipeline scriptedway</h1>
+<h1 align="center">Able to process learn pipeline scriptedway</h1>
 <h1 align="center">pipelinen-scriptedway project</h1> 
 <h1 align="center">good practice</h1>
 <hr>
