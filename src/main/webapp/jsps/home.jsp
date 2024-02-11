@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">in a good position with freestyle pipeline</h1>
-<h1 align="center">freestyle pipeline</h1> 
+<h1 align="center">Able to learn pipeline scriptedway</h1>
+<h1 align="center">pipelinen-scriptedway project</h1> 
 <h1 align="center">good practice</h1>
 <hr>
 <br>
