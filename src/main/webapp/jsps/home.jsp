@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Today Declarative script</h1>
+<h1 align="center">Tuesday working with declarative script</h1>
 <h1 align="center">pipelinen-scriptedway project</h1> 
 <h1 align="center">good practice</h1>
 <hr>
